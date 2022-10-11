@@ -1,0 +1,43 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="Component_102_1" data-name="Component 102 – 1" xmlns="http://www.w3.org/2000/svg" width="285.849" height="275.221" viewBox="0 0 285.849 275.221">
+  <defs>
+    <filter id="Polygon_3" x="23.154" y="30.317" width="234.384" height="227.092" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Polygon_1" data-name="Polygon 1" transform="translate(0 109.941) rotate(-30)" fill="none" opacity="0.42">
+    <path d="M164.912,0l54.971,95.424-54.971,95.424H54.971L0,95.424,54.971,0Z" stroke="none"/>
+    <path d="M 56.12669372558594 2 L 2.308090209960938 95.42432403564453 L 56.12666320800781 188.8486480712891 L 163.7561798095703 188.8486480712891 L 217.5747833251953 95.42432403564453 L 163.7561798095703 2 L 56.12669372558594 2 M 54.97073364257812 0 L 164.9121398925781 0 L 219.8828735351562 95.42432403564453 L 164.9121398925781 190.8486480712891 L 54.970703125 190.8486480712891 L 0 95.42432403564453 L 54.97073364257812 0 Z" stroke="none" fill="#ed3b24"/>
+  </g>
+  <path id="Polygon_2" data-name="Polygon 2" d="M141.007,0l47,81.554-47,81.554H47L0,81.554,47,0Z" transform="translate(20.686 113.561) rotate(-30)" fill="#fff"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Polygon_3)">
+    <g id="Polygon_3-2" data-name="Polygon 3" transform="translate(39.65 116.37) rotate(-30)" fill="#fff">
+      <path d="M119.331,0l39.777,69.593-39.777,69.593H39.777L0,69.593,39.777,0Z" stroke="none"/>
+      <path d="M 40.93739318847656 2 L 2.303634643554688 69.59294128417969 L 40.93737030029297 137.1858825683594 L 118.1700820922852 137.1858825683594 L 156.8038024902344 69.59294128417969 L 118.1700820922852 2 L 40.93739318847656 2 M 39.77687835693359 0 L 119.3305969238281 0 L 159.1074371337891 69.59294128417969 L 119.3305969238281 139.1858825683594 L 39.77685546875 139.1858825683594 L -1.52587890625e-05 69.59294128417969 L 39.77687835693359 0 Z" stroke="none" fill="rgba(32,33,78,0.45)"/>
+    </g>
+  </g>
+  <g id="main" transform="translate(-1110.346 -376.795)">
+    <g id="Group_173" data-name="Group 173" transform="translate(1233.315 477.61)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="7.892" height="7.892" transform="translate(4.311 21.172) rotate(-45.001)" fill="none"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="7.892" height="7.892" transform="translate(15.591 9.891) rotate(-45)" fill="none"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="7.892" height="7.892" transform="translate(15.591 32.453) rotate(-45.001)" fill="none"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="7.892" height="7.892" transform="translate(26.872 21.172) rotate(-45.001)" fill="none"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="7.892" height="3.048" transform="translate(24.717 19.017) rotate(-45.001)" fill="#ed3b24"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="7.892" height="3.048" transform="translate(13.436 30.298) rotate(-44.999)" fill="#ed3b24"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="7.892" height="3.048" transform="translate(21.172 15.472) rotate(-45.001)" fill="#ed3b24"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="7.892" height="3.048" transform="translate(9.891 26.753) rotate(-45)" fill="#ed3b24"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="3.048" height="7.892" transform="translate(9.891 15.592) rotate(-45)" fill="#ed3b24"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="3.048" height="7.892" transform="translate(13.436 12.047) rotate(-45)" fill="#ed3b24"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="3.048" height="7.892" transform="translate(24.717 23.328) rotate(-45)" fill="#ed3b24"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="3.048" height="7.892" transform="translate(21.172 26.872) rotate(-45)" fill="#ed3b24"/>
+      <path id="Path_16" data-name="Path 16" d="M1810.225,178.566l-2.155-2.155-5.581,5.581-5.581-5.581-2.155,2.155,7.736,7.736Z" transform="translate(-1781.317 -143.957)" fill="#262e3a"/>
+      <path id="Path_17" data-name="Path 17" d="M1743.472,91.985l-2.155-2.155-7.736,7.736,7.736,7.736,2.155-2.155-5.581-5.581Z" transform="translate(-1733.581 -76.394)" fill="#262e3a"/>
+      <path id="Path_18" data-name="Path 18" d="M1883.489,89.83l-2.155,2.155,5.581,5.581-5.581,5.581,2.155,2.155,7.736-7.736Z" transform="translate(-1848.881 -76.394)" fill="#262e3a"/>
+      <path id="Path_19" data-name="Path 19" d="M1808.07,38.548l2.155-2.155-7.736-7.736-7.736,7.736,2.155,2.155,5.581-5.581Z" transform="translate(-1781.317 -28.657)" fill="#262e3a"/>
+    </g>
+    <text id="NGEO" transform="translate(1224 543.919)" fill="#20214e" font-size="22" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">NGEO</tspan></text>
+  </g>
+</svg>

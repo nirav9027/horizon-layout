@@ -1,0 +1,85 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="801" height="532" viewBox="0 0 801 532">
+  <defs>
+    <filter id="Rectangle_67" x="0" y="0" width="801" height="532" filterUnits="userSpaceOnUse">
+      <feOffset dy="28" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#414141" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5019" x="505.735" y="149.234" width="189" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19264" data-name="Group 19264" transform="translate(-617.999 -1032.999)">
+    <g id="Group_18835" data-name="Group 18835" transform="translate(36.014 95.148)">
+      <g transform="matrix(1, 0, 0, 1, 581.99, 937.85)" filter="url(#Rectangle_67)">
+        <g id="Rectangle_67-2" data-name="Rectangle 67" transform="translate(90 62)" fill="#fff" stroke="rgba(112,112,112,0.2)" stroke-width="1">
+          <rect width="621" height="352" stroke="none"/>
+          <rect x="0.5" y="0.5" width="620" height="351" fill="none"/>
+        </g>
+      </g>
+      <g id="_1" data-name="1" transform="translate(698 1069.725)">
+        <g id="Bar_Chart" data-name="Bar Chart" transform="translate(0)">
+          <g id="line" transform="translate(0.023 54.777)">
+            <rect id="Rectangle_132" data-name="Rectangle 132" width="536.249" height="1" transform="translate(35 6)" fill="#eaf0f4"/>
+            <text id="_15" data-name="$15" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">$15</tspan></text>
+          </g>
+          <g id="line-2" data-name="line" transform="translate(0.023)">
+            <rect id="Rectangle_132-2" data-name="Rectangle 132" width="536.249" height="1" transform="translate(35 6)" fill="#eaf0f4"/>
+            <text id="_20" data-name="$20" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">$20</tspan></text>
+          </g>
+          <g id="line-3" data-name="line" transform="translate(0 109.553)">
+            <rect id="Rectangle_132-3" data-name="Rectangle 132" width="536.249" height="1" transform="translate(35.023 6)" fill="#eaf0f4"/>
+            <text id="_10" data-name="$10" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">$10</tspan></text>
+          </g>
+          <g id="line-4" data-name="line" transform="translate(0 165.288)">
+            <rect id="Rectangle_132-4" data-name="Rectangle 132" width="536.249" height="1" transform="translate(35.023 5)" fill="#eaf0f4"/>
+            <text id="_5" data-name="$5" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">$5</tspan></text>
+          </g>
+          <g id="line-5" data-name="line" transform="translate(0 219.106)">
+            <rect id="Rectangle_132-5" data-name="Rectangle 132" width="536.249" height="1" transform="translate(35.023 6)"/>
+            <text id="_0" data-name="$0" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">$0</tspan></text>
+          </g>
+        </g>
+        <g id="Group_17716" data-name="Group 17716" transform="translate(37.27 246.17)">
+          <g id="Group_17723" data-name="Group 17723" transform="translate(0)">
+            <text id="Jan_2021" data-name="Jan 2021" transform="translate(0 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Jan 2021</tspan></text>
+            <text id="Feb_2021" data-name="Feb 2021" transform="translate(71.133 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Feb 2021</tspan></text>
+            <text id="Mar_2021" data-name="Mar 2021" transform="translate(160.034 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Mar 2021</tspan></text>
+            <text id="Apr_2021" data-name="Apr 2021" transform="translate(243.201 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Apr 2021</tspan></text>
+            <text id="May_2021" data-name="May 2021" transform="translate(321.149 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">May 2021</tspan></text>
+            <text id="Jun_2021" data-name="Jun 2021" transform="translate(403.494 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Jun 2021</tspan></text>
+            <text id="July_2021" data-name="July 2021" transform="translate(486.293 10)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">July 2021</tspan></text>
+          </g>
+        </g>
+      </g>
+      <path id="Path_3680" data-name="Path 3680" d="M1071.1,87.278c-6.993-6.926-26.082-16.972-34.753-21.815s-19.254-7.323-28.835-4.5c-10.485,3.092-19.079,12.186-30.045,12.133-11.137-.05-19.426-9.353-27.52-16.738s-20.852-13.555-29.759-7.1c-4.99,3.615-7.077,10.3-12.5,13.274-4.477,2.454-10.009,1.728-15.11,2.386C880,66.551,870.63,76.408,860.821,84.183s-23.953,13.952-34.733,7.486c-5.176-3.1-8.447-8.6-13.653-11.656-9.914-5.816-23.642-1.186-33.709-6.75-5.681-3.14-9.4-9.159-15.459-11.541-9.171-3.6-19.6,2.8-24.907,10.872S730.9,90.323,726.018,98.64s-14.3,15.61-23.931,13.382c-16.73-3.871-18.086-31-34.907-34.484-8.647-1.791-18.189,3.864-26.175.2-5.8-2.663-8.719-9.5-14.669-11.845-8.888-3.5-17.576,4.592-25.248,10.161C581.706,90.117,552.2,89.19,533.813,73.936" transform="translate(197.687 1109.651)" fill="none" stroke="#008f30" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <g id="Group_18816" data-name="Group 18816" transform="translate(1102.721 1101.085)">
+        <g id="Group_18817" data-name="Group 18817">
+          <g transform="matrix(1, 0, 0, 1, -520.74, -163.23)" filter="url(#Rectangle_5019)">
+            <g id="Rectangle_5019-2" data-name="Rectangle 5019" transform="translate(520.74 163.23)" fill="#fff" stroke="rgba(112,112,112,0.1)" stroke-width="1">
+              <rect width="159" height="69" rx="3" stroke="none"/>
+              <rect x="0.5" y="0.5" width="158" height="68" rx="2.5" fill="none"/>
+            </g>
+          </g>
+          <text id="_24_July_2021_21:20:35" data-name="24 July 2021, 21:20:35" transform="translate(15 26)" fill="#28282a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">24 July 2021, 21:20:35</tspan></text>
+          <text id="Buy:_16.58" data-name="Buy:  $16.58" transform="translate(27 48)" fill="#28282a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">Buy:  $16.58</tspan></text>
+          <rect id="Rectangle_5050" data-name="Rectangle 5050" width="4" height="10" rx="2" transform="translate(14.594 38.849)" fill="#008f30"/>
+        </g>
+      </g>
+      <g id="Group_18924" data-name="Group 18924" transform="translate(-214 681.851)">
+        <text id="_1W_1M_1Y_ALL" data-name="1W    1M    1Y    ALL" transform="translate(914 356)" fill="#ed3b24" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">1W</tspan><tspan y="0" xml:space="preserve" fill="#20214e">    1M    1Y    ALL</tspan></text>
+        <g id="Rectangle_5105" data-name="Rectangle 5105" transform="translate(912 366)" fill="#fff" stroke="#ed3b24" stroke-width="1">
+          <rect width="26" height="1.5" rx="0.75" stroke="none"/>
+          <rect x="0.5" y="0.5" width="25" height="0.5" rx="0.25" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="_16.52" data-name="$16.52" transform="translate(1256 1143)" fill="#008f30" font-size="34" font-family="SegoeUI, Segoe UI"><tspan x="-49" y="0">$16.52</tspan></text>
+  </g>
+</svg>

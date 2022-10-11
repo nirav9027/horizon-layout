@@ -1,0 +1,24 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="189" height="99" viewBox="0 0 189 99">
+  <defs>
+    <filter id="Rectangle_5019" x="0" y="0" width="189" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18816" data-name="Group 18816" transform="translate(15 14)">
+    <g id="Group_18817" data-name="Group 18817">
+      <g transform="matrix(1, 0, 0, 1, -15, -14)" filter="url(#Rectangle_5019)">
+        <g id="Rectangle_5019-2" data-name="Rectangle 5019" transform="translate(15 14)" fill="#fff" stroke="rgba(112,112,112,0.1)" stroke-width="1">
+          <rect width="159" height="69" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="158" height="68" rx="2.5" fill="none"/>
+        </g>
+      </g>
+      <text id="_24_July_2021_21:20:35" data-name="24 July 2021, 21:20:35" transform="translate(15 26)" fill="#28282a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">24 July 2021, 21:20:35</tspan></text>
+      <text id="Buy:_16.58" data-name="Buy:  $16.58" transform="translate(27 48)" fill="#28282a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">Buy:  $16.58</tspan></text>
+      <rect id="Rectangle_5050" data-name="Rectangle 5050" width="4" height="10" rx="2" transform="translate(14.594 38.849)" fill="#008f30"/>
+    </g>
+  </g>
+</svg>
